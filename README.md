@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adithya P
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Coding (Web DL2 on Codeyoung)
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on WhatsApp
 
 <!---
